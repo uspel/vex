@@ -1,0 +1,17 @@
+{
+  "type": "addon",
+  "target": "stable",
+  "behavior_pack": {
+    "directories": {
+      "source": "BP",
+      "build": "build/BP",
+      "development": "minecraft:/development_behavior_packs/Vex Library Example BP"
+    },
+    "generate_contents": true,
+    "scripts": {
+      "entry": "index.ts",
+      "bundle": false,
+      "dependencies": { "@minecraft/server": "^1.4.0" }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vex Library Example",
+    "description": "A pack to test the Vex script library.",
+    "uuid": "facdff6b-24ce-4a59-8935-3490008c4165",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "metadata": {
+    "url": "https://minepicker.com/script-libraries/vex",
+    "authors": ["Uspel"],
+    "license": "MIT",
+    "generated_with": {
+      "minepicker-creator": ["0.1.0"]
+    }
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "e223f576-7dc8-4a67-8c10-27160b9f1f2f",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "index.js",
+      "uuid": "7a16581a-a793-4266-9a6c-f48f180bd52e",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [{ "module_name": "@minecraft/server", "version": "1.4.0" }]
+}
