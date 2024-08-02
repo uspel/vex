@@ -623,7 +623,7 @@ Vex3.toString(
 );
 ```
 
-### Vex2 Instance Methods
+### Vex3 Instance Methods
 
 #### constructor
 
