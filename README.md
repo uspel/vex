@@ -5,6 +5,7 @@ Your _"friendly"_ helper for performing mathematical operations on vectors.
 ## Contents
 
 - [Features](#features)
+- [Installation](#installation)
 - [Vex2](#vex2) — Utilities for two-dimensional vectors.
   - [Static Methods](#vex2-static-methods)
   - [Instance Methods](#vex2-instance-methods)
@@ -17,6 +18,14 @@ Your _"friendly"_ helper for performing mathematical operations on vectors.
 ## Features
 
 - Methods for both mutating and creating new vectors.
+
+## Installation
+
+Set up a new creation with the [Minepicker Creator CLI](https://creator.minepicker.com) and then run the following command to install the latest version of Vex:
+
+```shell
+minepicker use vex
+```
 
 ## Vex2
 
