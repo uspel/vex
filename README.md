@@ -391,6 +391,22 @@ Calculates the magnitude of this vector.
 vector.magnitude;
 ```
 
+#### x
+
+The X component of this vector.
+
+```js
+vector.x;
+```
+
+#### y
+
+The Y component of this vector.
+
+```js
+vector.y;
+```
+
 ## Vex3
 
 Utilities for three-dimensional vectors.
@@ -784,4 +800,28 @@ Calculates the magnitude of this vector.
 
 ```js
 vector.magnitude;
+```
+
+#### x
+
+The X component of this vector.
+
+```js
+vector.x;
+```
+
+#### y
+
+The Y component of this vector.
+
+```js
+vector.y;
+```
+
+#### z
+
+The Z component of this vector.
+
+```js
+vector.z;
 ```
